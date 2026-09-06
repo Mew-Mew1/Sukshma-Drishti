@@ -1,4 +1,4 @@
-# SIH26142 - Super Resolution Mapping of Satellite Imagery
+# Sukshma-Drishti(SIH26142) - Super Resolution Mapping of Satellite Imagery
 
 This repository contains the end-to-end deep learning pipeline for super-resolution mapping (SRM) of Sentinel-style satellite imagery. The project upgrades low/medium resolution multispectral imagery into higher-resolution outputs, while also estimating uncertainty and exposing the system through a browser-based web dashboard.
 
