@@ -1,0 +1,7 @@
+configs/config.yaml
+data/
+checkpoints/
+*.npy
+*.pt
+__pycache__/
+*.zip
